@@ -26,3 +26,4 @@ local.properties
 .DS_Store
 Podfile.lock
 Pods/
+/.kotlin/errors/errors-1767296790004.log
