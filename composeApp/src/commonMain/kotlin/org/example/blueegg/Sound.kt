@@ -3,7 +3,8 @@ package org.example.blueegg
 import androidx.compose.runtime.Composable
 
 interface SoundPlayer {
-    fun play()
+    fun start()
+    fun stop()
     fun release()
 }
 
